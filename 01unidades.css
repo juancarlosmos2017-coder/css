@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    background-color: #000;
+    color: #fff;
+}
+
+
+a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background:black;
+    color:white;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    margin:10px auto;
+    padding: 10px;
+    box-shadow: 0px 0px 5px yellow;
+}
+div{
+     display: block;
+    background: red;
+    margin: 10px auto;
+    color: yellow;
+}
+#uno{   
+    width: 300px;
+    height: 300px;  
+}
+#dos{
+    width: 300pt;
+    height: 300pt;
+}
+#tres{
+    width: 3in;
+    height: 3in;
+}
+#cuatro{
+    width: 3cm;
+    height: 3cm;
+}
+#cinco{
+    width: 30mm;
+    height: 30mm;
+}
+#seis{
+    width: 30pc;
+    height: 30pc;
+}
+#siete{
+    width: 300Q;
+    height: 300Q;
+}
+#ocho{
+    width: 20%;
+    height: 20%;
+}   
+#nueve{
+    width: 20em;
+    height: 20em;
+}
+#diez{
+    width: 20lh;
+    height: 20lh;
+}
+#once{
+    width: 20ex;
+    height: 20ex;
+}
+#doce{
+    width: 20ch;
+    height: 20ch;
+}
+#trece{
+    width: 20cap;
+    height: 20cap;
+}
+#catorce{
+    width: 20ic;
+    height: 20ic;
+}
